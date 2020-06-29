@@ -1,5 +1,12 @@
 # DataRue
 
-# Economic Modeling for Optimal Regulation
+# Economic Modeling (folder)
+  # - Economic Modeling for Optilam Regulations
 
-# To follow along the code, I recommend to read my blog (www.data-rue.com) in which I talk about regulatory economics.
+# R Functions (folder)
+  # - Quasi Experimental Bootstrapping
+  # - Better Split
+
+# Check my blog www.data-rue.com where I explain how to use these shared files.
+# Thank you!
+
